@@ -1,2 +1,2 @@
 # CodingProblemSolution
-Repo where i store the solution of all the programming exercise I do.
+Repo where i store the solution of all the programming exercises I do.
